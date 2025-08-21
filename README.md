@@ -4,6 +4,7 @@
 Passionné par le développement 3D immersif, la data appliquée et le web full-stack.  
 Actuellement en préparation d’un Mastère en IA à l’ISCOD.
 
+
 ## 🚀 Projets phares
 
 - **Simulation VR en milieu nucléaire (Unity)** – Projet de fin d’études : simulation immersive d’intervention avec EPI et zone contrôlée.
@@ -12,10 +13,6 @@ Actuellement en préparation d’un Mastère en IA à l’ISCOD.
 - **Jeu expérimental (Unreal Engine 5)** – 4 épreuves interactives (tir, empilement, ascenseur, échiquier dynamique).
 - **Jeu de la vie en 3 versions** – Python console, JavaScript web, Unity 3D immersif.
 - **Site vitrine + App mobile (Angular / Ionic / PHP)** – Transformation digitale d’entreprise (stage Turcan).
-
-![Stats GitHub](https://github-readme-stats.vercel.app/api?username=levreaug&show_icons=true&theme=dark)
-![Langages](https://github-readme-stats.vercel.app/api/top-langs/?username=levreaug&layout=compact&theme=dark)
-
 
 
 ## 🛠️ Compétences

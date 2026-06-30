@@ -37,7 +37,7 @@ Fondateur de **[GHIS!](https://ghis.fr)** · Studio digital basé en PACA.
 
 **Web** · React · Next.js · Node.js · Tailwind · TypeScript · PHP · Angular
 
-**IA & Data** · Python · SQL · MongoDB · OpenAI · Power BI
+**IA & Data** · Python · SQL · MongoDB · Claude Code & Cowork
 
 **Design** · Figma · Suite Adobe · Canva
 

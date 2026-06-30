@@ -27,7 +27,7 @@ Fondateur de **[GHIS!](https://ghis.fr)** · Studio digital basé en PACA.
 | **CMS multi-clients** · Plateforme SaaS interne | Chef de Projet (MOA/MOE) | Next.js, AWS, Jira, Scrum |
 | **Agent IA & répondeur** · Chatbot + téléphonie | Direction technique | OpenAI, Twilio, WebSockets |
 | **Écosystème de prospection** · Pipeline automatisé | Pilotage & management | React, Node.js, Docker, EC2 |
-| **App mobile & site vitrine** · Transformation digitale PME | Développeur Full-Stack | Angular, Ionic, PHP, WordPress |
+| **Projets web clients** · Sites & apps sur mesure pour TPE/PME | Cadrage, développement & livraison | Next.js, React, WordPress, Vercel |
 
 ---
 
@@ -49,6 +49,10 @@ Fondateur de **[GHIS!](https://ghis.fr)** · Studio digital basé en PACA.
 
 📍 PACA · Disponible en CDI ou mission
 
+&nbsp;
+
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-levreaughislain-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/levreaughislain/)
-[![Site](https://img.shields.io/badge/ghis.fr-3292FF?style=flat&logo=googlechrome&logoColor=white)](https://ghis.fr)
+&nbsp;&nbsp;
+[![Site](https://img.shields.io/badge/GHIS!-ghis.fr-3292FF?style=flat&logo=googlechrome&logoColor=white)](https://ghis.fr)
+&nbsp;&nbsp;
 [![Email](https://img.shields.io/badge/Email-levreaughislain@gmail.com-EA4335?style=flat&logo=gmail&logoColor=white)](mailto:levreaughislain@gmail.com)

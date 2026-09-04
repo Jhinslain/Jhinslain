@@ -1,6 +1,6 @@
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="banner-dark.svg">
-  <img alt="Ghislain Levreau, chef de projet et ingénieur informatique. Web, IA, data. Disponible en CDI ou en mission." src="banner-light.svg">
+  <source media="(prefers-color-scheme: dark)" srcset="profil-github/banner-dark.svg">
+  <img alt="Ghislain Levreau, chef de projet et ingénieur informatique. Web, IA, data. Disponible en CDI ou en mission." src="profil-github/banner-light.svg">
 </picture>
 
 &nbsp;
@@ -10,8 +10,8 @@ Je cadre des besoins, je coordonne des équipes et je livre. Polytech Marseille,
 &nbsp;
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="diff-dark.svg">
-  <img alt="Trois formules de CV interchangeables supprimées, remplacées par : je livre des projets qui tournent en production ; je dis non aux périmètres qui ne tiennent pas ; j'écris du code quand c'est plus court que de l'expliquer." src="diff-light.svg">
+  <source media="(prefers-color-scheme: dark)" srcset="profil-github/diff-dark.svg">
+  <img alt="Trois formules de CV interchangeables supprimées, remplacées par : je livre des projets qui tournent en production ; je dis non aux périmètres qui ne tiennent pas ; j'écris du code quand c'est plus court que de l'expliquer." src="profil-github/diff-light.svg">
 </picture>
 
 ### Ce que je fais

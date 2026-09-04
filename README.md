@@ -10,8 +10,8 @@ Je cadre des besoins, je coordonne des équipes et je livre. Polytech Marseille,
 &nbsp;
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="profil-github/diff-dark.svg">
-  <img alt="Trois formules de CV interchangeables supprimées, remplacées par : je livre des projets qui tournent en production ; je dis non aux périmètres qui ne tiennent pas ; j'écris du code quand c'est plus court que de l'expliquer." src="profil-github/diff-light.svg">
+  <source media="(prefers-color-scheme: dark)" srcset="profil-github/diff-dark-2.svg">
+  <img alt="Journal des modifications de mon parcours. Développeur devient chef de projet. Étudiant devient dirigeant de GHIS!. Bac +5 ingénieur devient bac +6, mastère en management de la transformation digitale. Un projet à la fois devient un portefeuille de projets et de clients. Dernière ligne, en attente : la prochaine ligne reste à écrire." src="profil-github/diff-light-2.svg">
 </picture>
 
 ### Ce que je fais

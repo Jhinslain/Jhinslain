@@ -1,58 +1,41 @@
 # Ghislain Levreau
 
-**Chef de Projet & Ingénieur Informatique** · Web, IA & Data
+Chef de projet et ingénieur informatique. Web, IA, data.
 
-Diplômé de Polytech Marseille (cycle ingénieur) et d'un Mastère en Management de la Transformation Digitale.
-Mon quotidien : cadrer les besoins, coordonner les équipes et livrer des projets web et IA de bout en bout.
+Je cadre des besoins, je coordonne des équipes et je livre. Polytech Marseille, cycle ingénieur, puis mastère en management de la transformation digitale. Fondateur de [GHIS!](https://ghis.fr), studio digital en PACA.
 
-Fondateur de **[GHIS!](https://ghis.fr)** · Studio digital basé en PACA.
-
----
+Disponible en CDI ou en mission.
 
 ### Ce que je fais
 
-🎯 **Pilotage de projets** · Cadrage fonctionnel, spécifications, planification, suivi Agile (Scrum, Jira), recette et mise en production.
+**Pilotage.** Cadrage fonctionnel, spécifications, planification, suivi agile, recette, mise en production.
 
-🌐 **Web** · Conception et développement d'applications web (React, Next.js, Node.js, Tailwind). Du site vitrine au SaaS multi-clients.
+**Web.** Conception et développement, du site vitrine au SaaS multi-clients. React, Next.js, Node.
 
-🤖 **IA & Data** · Agents conversationnels, automatisation de processus, analyse de données (Python, SQL, Power BI).
+**IA et data.** Agents conversationnels, automatisation de processus, analyse de données.
 
----
+### Ce que j'ai livré
 
-### Projets notables
+**[ghis.fr](https://ghis.fr)** · site du studio, conception et développement · Next.js, GSAP, Vercel
 
-| Projet | Rôle | Stack |
-|---|---|---|
-| **[ghis.fr](https://ghis.fr)** · Site du studio GHIS! | Conception & développement | Next.js, React, Tailwind, GSAP, Vercel |
-| **CMS multi-clients** · Plateforme SaaS interne | Chef de Projet (MOA/MOE) | Next.js, AWS, Jira, Scrum |
-| **Agent IA & répondeur** · Chatbot + téléphonie | Direction technique | OpenAI, Twilio, WebSockets |
-| **Écosystème de prospection** · Pipeline automatisé | Pilotage & management | React, Node.js, Docker, EC2 |
-| **Projets web clients** · Sites & apps sur mesure pour TPE/PME | Cadrage, développement & livraison | Next.js, React, WordPress, Vercel |
+**CMS multi-clients** · plateforme SaaS interne, MOA et MOE · Next.js, AWS, Scrum
 
----
+**Agent IA et répondeur téléphonique** · direction technique · OpenAI, Twilio, WebSockets
+
+**Écosystème de prospection** · pipeline automatisé, pilotage et management · React, Node, Docker
+
+Ce travail tourne en production chez des clients ou en interne. Les dépôts ne sont pas publics, les liens mènent au résultat.
 
 ### Stack
 
-**Gestion de projet** · Jira · Trello · Slack · Notion · Scrum · Git
+React · Next.js · Node · TypeScript · Tailwind · PHP · Angular
 
-**Web** · React · Next.js · Node.js · Tailwind · TypeScript · PHP · Angular
+Python · SQL · MongoDB · Power BI
 
-**IA & Data** · Python · SQL · MongoDB · Claude Code & Cowork
+AWS · Docker · Vercel · GitHub Actions
 
-**Design** · Figma · Suite Adobe · Canva
-
-**Infra** · AWS · Docker · Vercel · GitHub Actions
-
----
+Jira · Scrum · Figma · Claude Code
 
 ### Contact
 
-📍 PACA · Disponible en CDI ou mission
-
-&nbsp;
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-levreaughislain-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/levreaughislain/)
-&nbsp;&nbsp;
-[![Site](https://img.shields.io/badge/GHIS!-ghis.fr-3292FF?style=flat&logo=googlechrome&logoColor=white)](https://ghis.fr)
-&nbsp;&nbsp;
-[![Email](https://img.shields.io/badge/Email-levreaughislain@gmail.com-EA4335?style=flat&logo=gmail&logoColor=white)](mailto:levreaughislain@gmail.com)
+[LinkedIn](https://www.linkedin.com/in/levreaughislain/) · [ghis.fr](https://ghis.fr) · [levreaughislain@gmail.com](mailto:levreaughislain@gmail.com)

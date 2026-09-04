@@ -16,13 +16,13 @@ Disponible en CDI ou en mission.
 
 ### Ce que j'ai livré
 
-**[ghis.fr](https://ghis.fr)** · site du studio, conception et développement · Next.js, GSAP, Vercel
+**[monemplacement.fr](https://www.monemplacement.fr)** · produit GHIS. Un score d'opportunité commerciale par quartier, construit sur les registres publics français : Sirene, Insee, Bodacc, DVF. 807 quartiers analysés, environ 5 000 pages générées, étude d'implantation vendue en ligne. Conception produit, pipeline de données, développement, mise en production. Next.js, Python, Stripe.
 
-**CMS multi-clients** · plateforme SaaS interne, MOA et MOE · Next.js, AWS, Scrum
+**[omegots.fr](https://omegots.fr)** · site vitrine d'une association de collecte et de valorisation des mégots. Cadrage, identité, développement, mise en ligne.
 
-**Agent IA et répondeur téléphonique** · direction technique · OpenAI, Twilio, WebSockets
+**HiveStock** · application mobile de gestion de garde-manger. Conception produit et développement, en cours. React Native, Expo.
 
-**Écosystème de prospection** · pipeline automatisé, pilotage et management · React, Node, Docker
+**Plateforme SaaS multi-clients et agent IA téléphonique** · missions d'ingénieur et de chef de projet, MOA et MOE, pour une SAS marseillaise. Next.js, AWS, OpenAI, Twilio.
 
 Ce travail tourne en production chez des clients ou en interne. Les dépôts ne sont pas publics, les liens mènent au résultat.
 

@@ -1,0 +1,24 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 880 108" width="880" height="108" role="img" aria-label="Bandeau : un faux avertissement GitHub annonce que ce profil est en lecture seule et que son auteur n'accepte plus de missions. La phrase se raye, et laisse apparaître : Ghislain Levreau, chef de projet et ingénieur informatique, web, IA, data. Disponible en CDI ou en mission.">
+<style>
+.fade1{animation:o1 .5s ease 1.75s forwards}
+.fade2{opacity:0;animation:o2 .6s ease 2.05s forwards}
+.strike{stroke-dasharray:760;stroke-dashoffset:760;animation:s .8s ease-in .95s forwards}
+@keyframes o1{to{opacity:0}}
+@keyframes o2{to{opacity:1}}
+@keyframes s{to{stroke-dashoffset:0}}
+</style>
+<g class="fade1">
+<rect x="1" y="1" width="878" height="74" rx="6" fill="#272115" stroke="#9e6a03"/>
+<path d="M28 22 L40 44 L16 44 Z" fill="none" stroke="#d4a72c" stroke-width="2.2" stroke-linejoin="round"/>
+<path d="M28 29 L28 36" stroke="#d4a72c" stroke-width="2.2" stroke-linecap="round"/>
+<circle cx="28" cy="40" r="1.4" fill="#d4a72c"/>
+<text x="56" y="32" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI',Helvetica,Arial,sans-serif" font-size="15" font-weight="600" fill="#f0f6fc">Ce profil est en lecture seule.</text>
+<text x="56" y="54" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI',Helvetica,Arial,sans-serif" font-size="13.5" fill="#d4a72c">Son auteur n'accepte plus de nouvelles missions.</text>
+<path class="strike" d="M52 40 C 210 34, 340 46, 470 37 S 700 44, 828 36" fill="none" stroke="#f85149" stroke-width="2.6" stroke-linecap="round"/>
+</g>
+<g class="fade2">
+<text x="0" y="34" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI',Helvetica,Arial,sans-serif" font-size="27" font-weight="600" fill="#f0f6fc">Ghislain Levreau</text>
+<text x="0" y="62" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI',Helvetica,Arial,sans-serif" font-size="15" fill="#9198a1">Chef de projet et ingénieur informatique. Web, IA, data.</text>
+<text x="0" y="88" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI',Helvetica,Arial,sans-serif" font-size="14" fill="#4493f8">Disponible en CDI ou en mission.</text>
+</g>
+</svg>

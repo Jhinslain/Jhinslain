@@ -1,6 +1,6 @@
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="profil-github/banner-dark.svg">
-  <img alt="Ghislain Levreau, chef de projet et ingénieur informatique. Web, IA, data. Disponible en CDI ou en mission." src="profil-github/banner-light.svg">
+  <source media="(prefers-color-scheme: dark)" srcset="profil-github/banner-merge-dark.svg">
+  <img alt="Ghislain Levreau, chef de projet et ingénieur informatique. Web, IA, data. Disponible en CDI ou en mission." src="profil-github/banner-merge-light.svg">
 </picture>
 
 &nbsp;

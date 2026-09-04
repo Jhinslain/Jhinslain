@@ -1,10 +1,18 @@
-# Ghislain Levreau
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="banner-dark.svg">
+  <img alt="Ghislain Levreau, chef de projet et ingénieur informatique. Web, IA, data. Disponible en CDI ou en mission." src="banner-light.svg">
+</picture>
 
-Chef de projet et ingénieur informatique. Web, IA, data.
+&nbsp;
 
 Je cadre des besoins, je coordonne des équipes et je livre. Polytech Marseille, cycle ingénieur, puis mastère en management de la transformation digitale. Fondateur de [GHIS!](https://ghis.fr), studio digital en PACA.
 
-Disponible en CDI ou en mission.
+&nbsp;
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="diff-dark.svg">
+  <img alt="Trois formules de CV interchangeables supprimées, remplacées par : je livre des projets qui tournent en production ; je dis non aux périmètres qui ne tiennent pas ; j'écris du code quand c'est plus court que de l'expliquer." src="diff-light.svg">
+</picture>
 
 ### Ce que je fais
 

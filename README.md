@@ -18,8 +18,6 @@ Disponible en CDI ou en mission.
 
 **[monemplacement.fr](https://www.monemplacement.fr)** · produit GHIS. Un score d'opportunité commerciale par quartier, construit sur les registres publics français : Sirene, Insee, Bodacc, DVF. 807 quartiers analysés, environ 5 000 pages générées, étude d'implantation vendue en ligne. Conception produit, pipeline de données, développement, mise en production. Next.js, Python, Stripe.
 
-**[omegots.fr](https://omegots.fr)** · site vitrine d'une association de collecte et de valorisation des mégots. Cadrage, identité, développement, mise en ligne.
-
 **HiveStock** · application mobile de gestion de garde-manger. Conception produit et développement, en cours. React Native, Expo.
 
 **Plateforme SaaS multi-clients et agent IA téléphonique** · missions d'ingénieur et de chef de projet, MOA et MOE, pour une SAS marseillaise. Next.js, AWS, OpenAI, Twilio.
